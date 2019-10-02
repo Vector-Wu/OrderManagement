@@ -1,0 +1,8 @@
+iPhone XR	All-screen design...	AA-000000-0A	100	749.00
+iPhone XS	super Retina in two sizes...	AA-000000-0B	100	999.00
+iphone 8	No description	AA-000000-0C	100	599.00
+iphone 7	No description	AA-000000-0D	100	449.00
+iphone 6	No description	AA-000000-0E	100	399.00
+iphone 6	No description	AA-000000-0E	100	399.00
+HUAWEI P9	Chinese brand	CN-000000-0A	200	399.25
+Xiaomi 10	Another Chinese brand	CN-000000-0B	400	300.05
